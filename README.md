@@ -4,7 +4,7 @@ Geolocate live user tweets worldwide
 
 http://www.eirwig.com/
 
-Java + Spring MVC + Twitter Streaming API + Google Maps API
+Java + Spring MVC + Twitter Streaming API + Google Maps API + HTML5 Server Sent Events
 
 Packaged as eirwig-spring-mvc.war via maven 
 
