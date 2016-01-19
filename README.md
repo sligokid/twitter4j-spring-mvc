@@ -4,6 +4,10 @@ Geolocate live user tweets worldwide
 
 http://www.eirwig.com/
 
+or
+
+http://ec2-54-194-27-150.eu-west-1.compute.amazonaws.com:8080/eirwig-spring-mvc/
+
 Java + Spring MVC + Twitter Streaming API + Google Maps API + HTML5 Server Sent Events
 
 Packaged as eirwig-spring-mvc.war via maven 
