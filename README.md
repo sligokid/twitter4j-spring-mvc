@@ -1,4 +1,4 @@
-# twitter4j-spring-mvc (2014)
+# twitter4j-spring-mvc [![Build Status](https://travis-ci.org/sligokid/twitter4j-spring-mvc.svg?branch=master)](https://travis-ci.org/sligokid/twitter4j-spring-mvc)
 
 Geolocate live user tweets worldwide
 
