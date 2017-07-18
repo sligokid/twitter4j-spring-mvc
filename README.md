@@ -11,9 +11,10 @@ Geolocate live user tweets worldwide
 
 ## Introduction
 
-This Webapp is a personal project developed to Geolocate live user tweets worldwide.
+This Live streaming demonstration was created as part of an entry into the Apps 4 Gaps competiition http://apps4gaps.ie/.
+Apps4Gaps is an international competition aimed at encouraging young people to provide concepts and create applications utilising Open Data freely available.
 
-A live subscription is made to Twitters streaming API, each tweet is processed, its geolocation parsed, plotted on Google maps via the heat map.
+A live subscription is made to Twitters streaming API, each tweet is processed, its geolocation parsed, plotted on Google maps via the heat map. The open data used in this app are the CSO user population density figures for Ireland.
 
 ## Overview
 
@@ -31,6 +32,9 @@ The goal of this project is to showcase a live streaming twitter sourced headmap
 ## Demo
 
 ![docs-diagram](https://user-images.githubusercontent.com/6519496/28295550-367e6c04-6b59-11e7-9981-afdb519c1898.png)
+
+
+![docs-diagram](https://user-images.githubusercontent.com/6519496/28296041-75db6614-6b5d-11e7-86ae-ee15cceb8b82.png)
 
 http://www.eirwig.com/
 
